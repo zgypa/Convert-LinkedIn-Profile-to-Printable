@@ -7,7 +7,7 @@ More can be found at:
 http://aarontgrogg.com/blog/2015/04/28/how-to-print-a-linkedin-profile-as-a-resume-the-chrome-extension/
 
 
-== Description==
+## Description ##
 
 LinkedIn is awesome, but if you want a printable-version of the Profile you so carefully crafted,
 too bad.  There is (currently) no good way to get a good-looking printable version.
@@ -29,7 +29,7 @@ http://aarontgrogg.com/
 aarontgrogg@gmail.com
 
 
-== Installation ==
+## Installation ##
 
 1. You can either download and install directly from here, then install as an unpacked Chrome Extensions (https://developer.chrome.com/extensions/getstarted#unpacked), or can install this extension directly from the Chrome Web Store (https://chrome.google.com/webstore/detail/convert-linkedin-profile/banjooknkfddfmhhndbheeajkfeaigaa)
 2. Once installed, navigate to your LinkedIn Profile page (I recommend using "View profile as: Connections")
@@ -38,10 +38,10 @@ aarontgrogg@gmail.com
 5. Your Profile should immediately transform into a page that looks good on the screen and prints well.
 
 
-== Changelog ==
+## Changelog ##
 
-= 2.0 2015-11-05 =
+### 2.0 2015-11-05 ###
 *  Upgraded and added to the Chrome Web Store!
 
-= 1.0 2015-04-29 =
+### 1.0 2015-04-29 ###
 *  First draft, hope you like it!
